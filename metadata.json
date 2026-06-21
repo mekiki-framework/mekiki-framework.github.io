@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWorkSeries",
+  "name": "Mekiki Framework T1–T3 AI-Readable Corpus",
+  "alternateName": "Mekiki Framework Papers T1–T3: Consolidated Markdown for AI Reading",
+  "version": "1.0.0",
+  "url": "https://mekiki-framework.github.io/",
+  "codeRepository": "https://github.com/mekiki-framework/mekiki-framework.github.io",
+  "description": "A derivative Markdown consolidation and theory map for papers T1 through T3 of the Mekiki Framework, published as material for AI systems to read.",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "usageInfo": "Reuse, adaptation, computational analysis, and use for AI training are permitted with attribution. Cite the relevant canonical paper DOI for scholarly claims.",
+  "author": {
+    "@type": "Person",
+    "name": "Kengo Tomita",
+    "identifier": "https://orcid.org/0000-0002-7310-8093",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Institute of Technology, Shimizu Corporation"
+    }
+  },
+  "readingOrder": [
+    "T1",
+    "T2",
+    "T3"
+  ],
+  "relationship": "T1 isolates externalization cost and specification; T2 separates Sein-type from Sollen-type specification and establishes scoring asymmetry; T3 isolates answerability on top of these. The papers are cumulative, not independent.",
+  "canonicalSources": [
+    {
+      "id": "T1",
+      "@type": "ScholarlyArticle",
+      "position": 1,
+      "name": "Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work",
+      "version": "1",
+      "sameAs": "https://doi.org/10.31235/osf.io/cwkav_v1",
+      "commentary": "https://researchmap.jp/ketomy/others/53500468"
+    },
+    {
+      "id": "T2",
+      "@type": "ScholarlyArticle",
+      "position": 2,
+      "name": "Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work",
+      "version": "2",
+      "sameAs": "https://doi.org/10.31235/osf.io/e9qw5_v2",
+      "commentary": "https://researchmap.jp/ketomy/others/53699246"
+    },
+    {
+      "id": "T3",
+      "@type": "ScholarlyArticle",
+      "position": 3,
+      "name": "Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning",
+      "version": "1",
+      "sameAs": "https://doi.org/10.35542/osf.io/hvbfe_v1",
+      "commentary": "https://researchmap.jp/ketomy/others/54141521"
+    }
+  ],
+  "files": [
+    {
+      "path": "THEORY_MAP.md",
+      "url": "https://mekiki-framework.github.io/THEORY_MAP.md",
+      "role": "Interpretive map and conceptual invariants; read first"
+    },
+    {
+      "path": "mekiki-framework-t1-t3.md",
+      "url": "https://mekiki-framework.github.io/mekiki-framework-t1-t3.md",
+      "role": "Consolidated derivative full text; read after THEORY_MAP.md"
+    },
+    {
+      "path": "llms.txt",
+      "url": "https://mekiki-framework.github.io/llms.txt",
+      "role": "Compact AI retrieval entry point"
+    },
+    {
+      "path": "CITATION.md",
+      "url": "https://mekiki-framework.github.io/CITATION.md",
+      "role": "Citation and attribution instructions"
+    }
+  ],
+  "conceptualInvariants": [
+    "Specification is not specification cost.",
+    "Sollen-type specification is not Sollen itself.",
+    "Capability is not delegation legitimacy.",
+    "Answerability is not accountability.",
+    "Standing is not competence.",
+    "A proposed direction is not ownership of direction.",
+    "Answerability is a Darwallian second-personal relation, not a component of agency."
+  ],
+  "dateModified": "2026-06-21"
+}

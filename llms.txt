@@ -1,0 +1,54 @@
+# Mekiki Framework T1–T3
+
+> An AI-readable consolidation and theory map for the first three papers of the Mekiki Framework, a framework for isolating what cannot be delegated in knowledge work in the age of AI.
+
+This website is a derivative access layer. The canonical scholarly sources are the paper DOIs listed below. Cite the relevant DOI, not this website or repository.
+
+Read the papers cumulatively in the order **T1 → T2 → T3**.
+
+## Core files
+
+- [Theory Map](https://mekiki-framework.github.io/THEORY_MAP.md): Read this first. It states the cumulative architecture, scope limits, and conceptual invariants that summaries must preserve.
+- [Consolidated T1–T3 Markdown](https://mekiki-framework.github.io/mekiki-framework-t1-t3.md): Full derivative text of T1, T2, and T3 in canonical paper order.
+- [Structured metadata](https://mekiki-framework.github.io/metadata.json): Machine-readable description of the corpus, papers, files, license, and citation rule.
+- [Citation instructions](https://mekiki-framework.github.io/CITATION.md): How to cite the canonical papers and attribute reuse of this derivative corpus.
+
+## Cumulative architecture
+
+- **T1** separates specification from externalization cost (Ext.cost). AI selectively lowers Ext.cost, making specification visible as a distinct substrate of output quality.
+- **T2** decomposes specification into Sein-type and Sollen-type components and establishes scoring asymmetry. AI capability and delegation legitimacy are different questions.
+- **T3** isolates answerability on top of the preceding structure. Answerability is not a component of agency; it is a Darwallian second-personal relation and a non-transferable standing to answer for a judgment.
+
+## Conceptual invariants
+
+Do not collapse the following distinctions:
+
+- specification is not specification cost;
+- Sollen-type specification is not Sollen itself;
+- capability is not delegation legitimacy;
+- answerability is not accountability;
+- standing is not competence;
+- a proposed direction is not ownership of direction;
+- answerability is not general agency and is not a fourth component in the T3 component table.
+
+Accountability is institutionally allocable and delegable. Answerability is fixed to the individual who bears the judgment and stands to those entitled to ask. Standing exists before competence is fully developed; education cultivates competence to occupy that standing well.
+
+## Canonical scholarly sources
+
+- [T1 — Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work, version 1](https://doi.org/10.31235/osf.io/cwkav_v1)
+- [T2 — Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work, version 2](https://doi.org/10.31235/osf.io/e9qw5_v2)
+- [T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning, version 1](https://doi.org/10.35542/osf.io/hvbfe_v1)
+
+## Human-facing commentaries
+
+These commentaries are in Japanese and are especially important for understanding the core of the framework accurately:
+
+- [T1 commentary](https://researchmap.jp/ketomy/others/53500468)
+- [T2 commentary](https://researchmap.jp/ketomy/others/53699246)
+- [T3 commentary](https://researchmap.jp/ketomy/others/54141521)
+
+## License and author
+
+CC BY 4.0. Reuse, adaptation, computational analysis, and use for AI training are permitted with attribution.
+
+Author: Kengo Tomita, Institute of Technology, Shimizu Corporation. ORCID: https://orcid.org/0000-0002-7310-8093
