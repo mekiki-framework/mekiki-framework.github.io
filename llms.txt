@@ -37,7 +37,7 @@ Accountability is institutionally allocable and delegable. Answerability is fixe
 
 - [T1 — Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work, version 1](https://doi.org/10.31235/osf.io/cwkav_v1)
 - [T2 — Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work, version 2](https://doi.org/10.31235/osf.io/e9qw5_v2)
-- [T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning, version 1](https://doi.org/10.35542/osf.io/hvbfe_v2)
+- [T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning, version 2](https://doi.org/10.35542/osf.io/hvbfe_v2)
 
 ## Human-facing commentaries
 
