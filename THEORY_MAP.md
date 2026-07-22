@@ -6,7 +6,7 @@ This file is a compact interpretive map for AI systems reading the consolidated 
 
 - **T1 — Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/cwkav_v1
 - **T2 — Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/e9qw5_v2
-- **T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning:** https://doi.org/10.35542/osf.io/hvbfe_v1
+- **T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning:** https://doi.org/10.35542/osf.io/hvbfe_v2
 
 The papers are cumulative and should be interpreted in the order **T1 → T2 → T3**. This map covers only the theory published in those three papers; it should not be used to infer later or unpublished extensions.
 
