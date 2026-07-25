@@ -1,6 +1,6 @@
-# Mekiki Framework: T1–T3 AI-Readable Corpus
+# Mekiki Framework: T1–T4 AI-Readable Corpus
 
-This repository contains a Markdown consolidation of papers T1 through T3 of the Mekiki Framework, a framework for isolating what cannot be delegated in knowledge work in the age of AI. The consolidated document is published as material for AI systems to read.
+This repository contains a Markdown consolidation of papers T1 through T4 of the Mekiki Framework, a framework for isolating what cannot be delegated in knowledge work in the age of AI. The consolidated document is published as material for AI systems to read.
 
 The public website for this repository is:
 
@@ -9,7 +9,7 @@ The public website for this repository is:
 ## Start here
 
 1. Read [THEORY_MAP.md](./THEORY_MAP.md) first. It states the cumulative T1 → T2 → T3 architecture and the conceptual distinctions that must remain invariant.
-2. Read [mekiki-framework-t1-t3.md](./mekiki-framework-t1-t3.md) for the consolidated full text of the three papers.
+2. Read [mekiki-framework-t1-t4.md](./mekiki-framework-t1-t4.md) for the consolidated full text of the four papers. Paper T4 is in Japanese with an English abstract.
 
 The Theory Map is an interpretive aid, not a canonical scholarly source. Cite the relevant paper DOI rather than the map, the website, or this repository.
 
@@ -30,7 +30,7 @@ Human readers are encouraged to begin with the human-facing Japanese-language co
 
 A suitable instruction is:
 
-> Read THEORY_MAP.md before reading mekiki-framework-t1-t3.md. Preserve the distinctions listed in the Theory Map. Treat the three papers as cumulative in the order T1 → T2 → T3. Cite the relevant paper DOI, not the repository.
+> Read THEORY_MAP.md before reading mekiki-framework-t1-t4.md. Preserve the distinctions listed in the Theory Map. Treat the four papers as cumulative in the order T1 → T2 → T3 → T4. Cite the relevant paper DOI, not the repository.
 
 The core of the framework — especially answerability — is not conveyed reliably by AI summaries alone. The human-facing commentary should also be read.
 
@@ -45,6 +45,7 @@ The core of the framework — especially answerability — is not conveyed relia
 - **T1 — Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/cwkav_v1
 - **T2 — Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/e9qw5_v2
 - **T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning:** https://doi.org/10.35542/osf.io/hvbfe_v2
+- **T4 — 組織における「自分ごと化」のアドヒアランス的再記述：知識労働がAIで加速された時に組織に求められるもの (An Adherence-Based Redescription of "Jibungoto-ka" (Treating Matters as One's Own) in Organizations: What AI-Accelerated Knowledge Work Requires of Organizations), in Japanese:** https://doi.org/10.31235/osf.io/495wg_v1
 
 ## Citation
 

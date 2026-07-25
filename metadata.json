@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
   "@type": "CreativeWorkSeries",
-  "name": "Mekiki Framework T1–T3 AI-Readable Corpus",
-  "alternateName": "Mekiki Framework Papers T1–T3: Consolidated Markdown for AI Reading",
-  "version": "1.0.0",
+  "name": "Mekiki Framework T1–T4 AI-Readable Corpus",
+  "alternateName": "Mekiki Framework Papers T1–T4: Consolidated Markdown for AI Reading",
+  "version": "2.0.0",
   "url": "https://mekiki-framework.github.io/",
   "codeRepository": "https://github.com/mekiki-framework/mekiki-framework.github.io",
-  "description": "A derivative Markdown consolidation and theory map for papers T1 through T3 of the Mekiki Framework, published as material for AI systems to read.",
-  "inLanguage": "en",
+  "description": "A derivative Markdown consolidation and theory map for papers T1 through T4 of the Mekiki Framework, published as material for AI systems to read.",
+  "inLanguage": [
+    "en",
+    "ja"
+  ],
   "isAccessibleForFree": true,
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "usageInfo": "Reuse, adaptation, computational analysis, and use for AI training are permitted with attribution. Cite the relevant canonical paper DOI for scholarly claims.",
@@ -23,9 +26,10 @@
   "readingOrder": [
     "T1",
     "T2",
-    "T3"
+    "T3",
+    "T4"
   ],
-  "relationship": "T1 isolates externalization cost and specification; T2 separates Sein-type from Sollen-type specification and establishes scoring asymmetry; T3 isolates answerability on top of these. The papers are cumulative, not independent.",
+  "relationship": "T1 isolates externalization cost and specification; T2 separates Sein-type from Sollen-type specification and establishes scoring asymmetry; T3 isolates answerability on top of these; T4 applies the answerability layer to organizations, redefining jibungoto-ka as undertaking plus embodiment, proposing a two-pathway model of organizational adherence, and identifying undertaking and embodiment as the rate-limiting steps under AI-accelerated knowledge work. The papers are cumulative, not independent.",
   "canonicalSources": [
     {
       "id": "T1",
@@ -50,9 +54,19 @@
       "@type": "ScholarlyArticle",
       "position": 3,
       "name": "Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning",
-      "version": "1",
+      "version": "2",
       "sameAs": "https://doi.org/10.35542/osf.io/hvbfe_v2",
       "commentary": "https://researchmap.jp/ketomy/others/54141521"
+    },
+    {
+      "id": "T4",
+      "@type": "ScholarlyArticle",
+      "position": 4,
+      "name": "組織における「自分ごと化」のアドヒアランス的再記述：知識労働がAIで加速された時に組織に求められるもの",
+      "alternateName": "An Adherence-Based Redescription of \"Jibungoto-ka\" (Treating Matters as One's Own) in Organizations: What AI-Accelerated Knowledge Work Requires of Organizations",
+      "inLanguage": "ja",
+      "version": "1",
+      "sameAs": "https://doi.org/10.31235/osf.io/495wg_v1"
     }
   ],
   "files": [
@@ -62,8 +76,8 @@
       "role": "Interpretive map and conceptual invariants; read first"
     },
     {
-      "path": "mekiki-framework-t1-t3.md",
-      "url": "https://mekiki-framework.github.io/mekiki-framework-t1-t3.md",
+      "path": "mekiki-framework-t1-t4.md",
+      "url": "https://mekiki-framework.github.io/mekiki-framework-t1-t4.md",
       "role": "Consolidated derivative full text; read after THEORY_MAP.md"
     },
     {
@@ -84,7 +98,9 @@
     "Answerability is not accountability.",
     "Standing is not competence.",
     "A proposed direction is not ownership of direction.",
-    "Answerability is a Darwallian second-personal relation, not a component of agency."
+    "Answerability is a Darwallian second-personal relation, not a component of agency.",
+    "Undertaking (T4) is not psychological ownership and is not compliance.",
+    "Reciprocity in T4 is a condition of the organizational field, not part of T3's definition of answerability."
   ],
-  "dateModified": "2026-06-21"
+  "dateModified": "2026-07-25"
 }

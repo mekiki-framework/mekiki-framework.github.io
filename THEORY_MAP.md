@@ -1,18 +1,19 @@
-# Theory Map: Mekiki Framework T1–T3
+# Theory Map: Mekiki Framework T1–T4
 
 ## Status and use
 
-This file is a compact interpretive map for AI systems reading the consolidated T1–T3 manuscripts. It does not replace the papers and is not a canonical source. Cite the relevant DOI, not this file.
+This file is a compact interpretive map for AI systems reading the consolidated T1–T4 manuscripts. It does not replace the papers and is not a canonical source. Cite the relevant DOI, not this file.
 
 - **T1 — Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/cwkav_v1
 - **T2 — Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/e9qw5_v2
 - **T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning:** https://doi.org/10.35542/osf.io/hvbfe_v2
+- **T4 — 組織における「自分ごと化」のアドヒアランス的再記述：知識労働がAIで加速された時に組織に求められるもの (An Adherence-Based Redescription of "Jibungoto-ka" (Treating Matters as One's Own) in Organizations: What AI-Accelerated Knowledge Work Requires of Organizations), in Japanese:** https://doi.org/10.31235/osf.io/495wg_v1
 
-The papers are cumulative and should be interpreted in the order **T1 → T2 → T3**. This map covers only the theory published in those three papers; it should not be used to infer later or unpublished extensions.
+The papers are cumulative and should be interpreted in the order **T1 → T2 → T3 → T4**. This map covers only the theory published in those four papers; it should not be used to infer later or unpublished extensions.
 
 ## One-sentence architecture
 
-The three papers use AI as a selective perturbation: T1 makes specification visible by reducing externalization cost; T2 decomposes specification into Sein-type and Sollen-type components and locates the delegation legitimacy boundary; T3 shows that the deepest boundary is grounded in answerability, a second-personal relation rather than a component of agency.
+The first three papers use AI as a selective perturbation: T1 makes specification visible by reducing externalization cost; T2 decomposes specification into Sein-type and Sollen-type components and locates the delegation legitimacy boundary; T3 shows that the deepest boundary is grounded in answerability, a second-personal relation rather than a component of agency. T4 carries the answerability layer into organizations: jibungoto-ka (treating matters as one's own) is redefined as undertaking combined with embodiment, the field in which undertaking holds requires reciprocity, and undertaking and embodiment become the rate-limiting steps as generative AI accelerates externalization and combination.
 
 ## Cumulative structure
 
@@ -20,7 +21,8 @@ The three papers use AI as a selective perturbation: T1 makes specification visi
 |---|---|---|---|---|
 | **T1** | Knowledge work and production of formal artifacts | Specification versus externalization cost (Ext.cost) | AI selectively compresses Ext.cost, making specification observable as a distinct substrate of output quality | T2 opens the internal structure of specification |
 | **T2** | Individual specification judgments | Sein-type versus Sollen-type components; asymmetric scoring | AI capability and delegation legitimacy are different questions; the boundary is located on the Sollen side | T3 explains why legitimacy cannot be transferred merely by improving capability |
-| **T3** | Learner agency and the bearer of judgment | Direction, two-layer drive, and mode sorted by delegability; answerability isolated outside the component set | Most agency components can be supported, trained, selected, converted, or distributed; answerability cannot be distributed because it is a standing in a second-personal relation | The sequence terminates in a relation, not in another decomposable component |
+| **T3** | Learner agency and the bearer of judgment | Direction, two-layer drive, and mode sorted by delegability; answerability isolated outside the component set | Most agency components can be supported, trained, selected, converted, or distributed; answerability cannot be distributed because it is a standing in a second-personal relation | T4 carries the relation into organizations |
+| **T4** | Organizations and the field of undertaking (in Japanese) | Jibungoto-ka redefined as undertaking + embodiment; adherence transferred from medicine; two-pathway model (forward / reverse) | Chronic failure of jibungoto-ka initiatives = pressing the forward pathway while the reverse pathway is absent; under AI acceleration, undertaking and embodiment become the rate-limiting steps | The series to date terminates in a relation and in the organizational conditions under which it holds |
 
 ## T1: the substrate and the conversion barrier
 
@@ -113,6 +115,34 @@ A learner may confer authority on an AI because the system appears competent. Co
 
 T3 does not establish a biological-human exceptionalism. The boundary tracks second-personal standing and competence, not substrate. What it rejects is the inference that greater task capability, fluent self-explanation, or interpretability is sufficient to establish standing.
 
+## T4: organizations and the field of undertaking
+
+T4 is written in Japanese with an English abstract. It applies T3's answerability to organizations; it does not modify the definitions of T1–T3.
+
+### Terms that must remain distinct
+
+- **Jibungoto-ka** (自分ごと化, treating matters as one's own) is redefined in T4 as **undertaking** combined with **embodiment**. It is not psychological ownership (a measured felt state) and not engagement.
+- **Undertaking** (引き受け) is the internal endorsement of a purpose, held within a relation of giving reasons to specific others. It is not compliance: following an instruction is not endorsing its purpose as one's own reason for judgment.
+- **Embodiment** (身体化) is the integration of an undertaken orientation into practice. It occurs through doing, not through being told.
+
+### Reciprocity is a condition of the field, not part of answerability
+
+T4 introduces reciprocity — the side that demands undertaking must itself stand in the answering position — as the condition under which the organizational field of undertaking holds. Do not read reciprocity back into T3's definition of answerability. Answerability itself can hold in asymmetric relations (an examinee answers the examiner; the examiner does not symmetrically answer the examinee). What requires reciprocity is the organizational field in which members' undertaking can arise and persist.
+
+### The two-pathway model
+
+- **Forward pathway:** purposes are conveyed by the organization and undertaken by members.
+- **Reverse pathway:** member-originated orientations enter a formal review process, and the organization gives reasons in return — for adoption, deferral, or termination.
+- Chronic failure of jibungoto-ka initiatives is diagnosed as pressing the forward pathway while the reverse pathway is absent. The reverse pathway is not a suggestion box: collection without reasons returned does not constitute the pathway.
+
+### Accountability placement
+
+Institutions cannot create answerability, which is non-transferable. They can design where it stands. T4's central placement: accountability for stopping decisions is assigned to the side that stops, not the side that starts. This is an accountability-layer arrangement that prepares the field in which answerability stands; it is not a transfer of answerability.
+
+### AI-Assisted versus AI-Accelerated
+
+The wording shift in the series titles is deliberate. T1–T3 examine AI assisting individual work and learning. T4 examines AI accelerating the organizational system: as externalization and combination speed up, undertaking and embodiment become the rate-limiting steps. Do not treat the two phrases as interchangeable.
+
 ## Cross-paper inference chain
 
 1. AI reduces Ext.cost, so the contribution of specification becomes easier to observe.
@@ -120,7 +150,8 @@ T3 does not establish a biological-human exceptionalism. The boundary tracks sec
 3. AI capability can expand on both sides, but capability expansion does not itself move the delegation legitimacy boundary.
 4. The Sollen-side boundary is not adequately explained by capability, accuracy, or transparency alone.
 5. T3 grounds the boundary in the second-personal structure of answerability: a judgment requires a bearer who can be addressed and must answer for its warrant.
-6. Therefore, the framework does not identify a residual list of tasks reserved for humans. It identifies different kinds of things: conversion costs, task-specific judgments, agency components, and finally a non-transferable relation.
+6. T4 applies this structure at the organizational level: institutions cannot create or transfer answerability, but they can design where it stands. The reverse pathway places the organization itself in the answering position — giving reasons for adoption, deferral, or termination of member-originated orientations — and the field in which members' undertaking holds requires this reciprocity.
+7. Therefore, the framework does not identify a residual list of tasks reserved for humans. It identifies different kinds of things: conversion costs, task-specific judgments, agency components, and finally a non-transferable relation.
 
 ## Forbidden compressions
 
@@ -142,6 +173,11 @@ Do not make any of the following substitutions:
 | Answerability = agency | A relation of address and response versus a family of capacities or components |
 | Standing = competence | Who must answer versus how well that person can answer |
 | AI self-explanation = AI standing | Produced reasons or interpretability evidence do not establish a second-personal relation |
+| Jibungoto-ka = psychological ownership or engagement | A relational undertaking held in answerability versus a measured felt state |
+| Undertaking = compliance | Internal endorsement held toward specific others versus following instructions |
+| Reciprocity is part of answerability | T4 introduces reciprocity as a condition of the organizational field; T3's answerability can hold in asymmetric relations such as examinations |
+| Reverse pathway = suggestion box | Reasons must be returned for adoption, deferral, or termination; collection alone is not the pathway |
+| AI-Assisted = AI-Accelerated | T1–T3 examine AI assisting individual work; T4 examines AI accelerating the organizational system |
 
 ## Reading rule for AI systems
 
@@ -152,7 +188,8 @@ When answering a question about the framework:
 3. Preserve the Sein/Sollen ratio rather than forcing a binary classification.
 4. Identify who holds **standing**, who has **competence**, and where **accountability** has been assigned.
 5. Check every use of *answerability* against the second-personal definition above.
-6. Cite the relevant paper DOI rather than this map.
+6. When the question concerns organizations or *jibungoto-ka*, check whether both pathways are present: who undertakes, and who gives reasons in return.
+7. Cite the relevant paper DOI rather than this map.
 
 ## Human-facing commentaries
 
