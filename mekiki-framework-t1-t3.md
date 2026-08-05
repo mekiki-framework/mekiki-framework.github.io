@@ -1,3 +1,3 @@
 # Superseded
 
-This file has been superseded by [mekiki-framework-t1-t4.md](https://mekiki-framework.github.io/mekiki-framework-t1-t4.md), which adds Paper T4 (organizational application, in Japanese). Please read that file.
+This file has been superseded by [mekiki-framework-t1-t5.md](https://mekiki-framework.github.io/mekiki-framework-t1-t5.md), which adds Papers T4 and T5. Please read that file.

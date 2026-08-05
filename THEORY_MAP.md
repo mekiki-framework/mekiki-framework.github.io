@@ -1,19 +1,22 @@
-# Theory Map: Mekiki Framework T1–T4
+# Theory Map: Mekiki Framework T1–T5
 
 ## Status and use
 
-This file is a compact interpretive map for AI systems reading the consolidated T1–T4 manuscripts. It does not replace the papers and is not a canonical source. Cite the relevant DOI, not this file.
+> **Corpus status:** This map covers all five papers, T1–T5.
+
+This file is a compact interpretive map for AI systems reading the consolidated T1–T5 manuscripts. It does not replace the papers and is not a canonical source. Cite the relevant DOI, not this file.
 
 - **T1 — Domain-Native Development: A Mekiki Framework for AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/cwkav_v1
 - **T2 — Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work:** https://doi.org/10.31235/osf.io/e9qw5_v2
 - **T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning:** https://doi.org/10.35542/osf.io/hvbfe_v2
 - **T4 — 組織における「自分ごと化」のアドヒアランス的再記述：知識労働がAIで加速された時に組織に求められるもの (An Adherence-Based Redescription of "Jibungoto-ka" (Treating Matters as One's Own) in Organizations: What AI-Accelerated Knowledge Work Requires of Organizations), in Japanese:** https://doi.org/10.31235/osf.io/495wg_v1
+- **T5 — Why Play When AI Can Win: The Non-Transferability of Participation in AI-Assisted Play:** https://doi.org/10.31235/osf.io/593ah_v1
 
-The papers are cumulative and should be interpreted in the order **T1 → T2 → T3 → T4**. This map covers only the theory published in those four papers; it should not be used to infer later or unpublished extensions.
+The papers are cumulative and should be interpreted in the order **T1 → T2 → T3 → T4 → T5**. This map covers only the theory published in those five papers; it should not be used to infer later or unpublished extensions.
 
 ## One-sentence architecture
 
-The first three papers use AI as a selective perturbation: T1 makes specification visible by reducing externalization cost; T2 decomposes specification into Sein-type and Sollen-type components and locates the delegation legitimacy boundary; T3 shows that the deepest boundary is grounded in answerability, a second-personal relation rather than a component of agency. T4 carries the answerability layer into organizations: jibungoto-ka (treating matters as one's own) is redefined as undertaking combined with embodiment, the field in which undertaking holds requires reciprocity, and undertaking and embodiment become the rate-limiting steps as generative AI accelerates externalization and combination.
+The first three papers use AI as a selective perturbation: T1 makes specification visible by reducing externalization cost; T2 decomposes specification into Sein-type and Sollen-type components and locates the delegation legitimacy boundary; T3 shows that the deepest boundary is grounded in answerability, a second-personal relation rather than a component of agency. T4 carries the answerability layer into organizations: jibungoto-ka (treating matters as one's own) is redefined as undertaking combined with embodiment, the field in which undertaking holds requires reciprocity, and undertaking and embodiment become the rate-limiting steps as generative AI accelerates externalization and combination. T5 closes the series by reversing the question: where T1–T4 ask what must remain on the human side when delegation occurs, T5 asks why an agent may rationally decline delegation even when it is technically possible and legitimate — and answers that the value of participation is agent-relative and non-transferable.
 
 ## Cumulative structure
 
@@ -21,8 +24,9 @@ The first three papers use AI as a selective perturbation: T1 makes specificatio
 |---|---|---|---|---|
 | **T1** | Knowledge work and production of formal artifacts | Specification versus externalization cost (Ext.cost) | AI selectively compresses Ext.cost, making specification observable as a distinct substrate of output quality | T2 opens the internal structure of specification |
 | **T2** | Individual specification judgments | Sein-type versus Sollen-type components; asymmetric scoring | AI capability and delegation legitimacy are different questions; the boundary is located on the Sollen side | T3 explains why legitimacy cannot be transferred merely by improving capability |
-| **T3** | Learner agency and the bearer of judgment | Direction, two-layer drive, and mode sorted by delegability; answerability isolated outside the component set | Most agency components can be supported, trained, selected, converted, or distributed; answerability cannot be distributed because it is a standing in a second-personal relation | T4 carries the relation into organizations |
-| **T4** | Organizations and the field of undertaking (in Japanese) | Jibungoto-ka redefined as undertaking + embodiment; adherence transferred from medicine; two-pathway model (forward / reverse) | Chronic failure of jibungoto-ka initiatives = pressing the forward pathway while the reverse pathway is absent; under AI acceleration, undertaking and embodiment become the rate-limiting steps | The series to date terminates in a relation and in the organizational conditions under which it holds |
+| **T3** | Learner agency and the bearer of judgment | Direction, drive in two forms (available activation and motivational drive), and mode sorted by delegability; answerability isolated outside the component set | Most agency components can be supported, protected, trained, converted, or distributed; answerability cannot be distributed because it is a standing in a second-personal relation | T4 carries the relation into organizations |
+| **T4** | Organizations and the field of undertaking (in Japanese) | Jibungoto-ka redefined as undertaking + embodiment; adherence transferred from medicine; two-pathway model (forward / reverse) | Chronic failure of jibungoto-ka initiatives = pressing the forward pathway while the reverse pathway is absent; under AI acceleration, undertaking and embodiment become the rate-limiting steps | T5 reverses the question: why decline delegation that is possible and legitimate |
+| **T5** | Play, participation, and the delegation of activity | Achieved state versus participation; assist versus substitute; two locks (qualification; agent-relativity) | Parts of an activity can be delegated, but participation itself cannot be taken over by any agent; acceptance of this depends on cultural dignity apparatuses, not on individual temperament alone | The series terminates in a value that delegation cannot move |
 
 ## T1: the substrate and the conversion barrier
 
@@ -78,12 +82,12 @@ Sin/Do is a secondary dynamic extension within Sollen-type specification, not a 
 
 ### Components sorted by delegability
 
-- **General drive** is selectable and supportable, but not directly trainable.
+- **Available activation** (drive in its unanchored form) is supportable and protectable: a current, context-sensitive state varying with health, workload, and circumstance, not a fixed trait. It cannot be manufactured by exhortation, and nothing in the decomposition licenses using activation levels for admissions, selection, or deficit classification.
 - **Mode** is trainable and supportable.
-- **Motivational drive** is convertible from general drive when a direction takes hold.
+- **Motivational drive** is derivative: propulsion anchored to a specific direction, appearing when a direction captures available activation.
 - **Direction** can be proposed from outside, but ownership cannot be installed. An offered direction and an owned direction are not equivalent.
 
-The proposed mechanism is **embodied encounter → crystallization of direction → conversion of general drive into motivational drive**. It is a design hypothesis and probabilistic mechanism model, not a claim that encounter guarantees commitment.
+A **design conjecture** proposes that embodied encounter may support the crystallization of direction and the conversion of available activation into motivational drive. It is a hypothesis-generating design conjecture, not a causal mechanism claim, and not a claim that encounter guarantees commitment. Delegation, support, training, and measurement are different operations, not values on a single axis.
 
 ### Answerability is not a component
 
@@ -143,6 +147,39 @@ Institutions cannot create answerability, which is non-transferable. They can de
 
 The wording shift in the series titles is deliberate. T1–T3 examine AI assisting individual work and learning. T4 examines AI accelerating the organizational system: as externalization and combination speed up, undertaking and embodiment become the rate-limiting steps. Do not treat the two phrases as interchangeable.
 
+## T5: participation and the limit of delegation
+
+T5 asks the converse of T1–T4. The earlier papers decompose what must remain on the human side when delegation occurs; T5 asks why an agent may rationally decline delegation even when it is technically possible and legitimate.
+
+### Core theorem
+
+Parts of an activity can be delegated — preparation, analysis, record-keeping, even the role of one's opponent. But "participating in my place" does not pick out a well-defined service. When another agent realises the goal state on my behalf, the state of affairs obtains; the fact that I undertook the constitutive constraints and pursued the goal through them does not thereby come into existence. **AI can deliver the state of affairs; it cannot deliver the fact of participation.** The theorem is agent-relative: it holds for human proxies exactly as for machines, and therefore holds whatever machines become — achievers, players, moral patients, or none of these.
+
+### Criterion
+
+The operative criterion is **undertaking as it appears in treatment**: whether an agent is treated as a participant who has undertaken the goal and constraints as its own reasons. The criterion requires no inspection of inner states on either side. The provenance of an AI system's objectives (design documents, training) is only an observable proxy for the absence of undertaking in current systems, not the criterion itself.
+
+### Two locks and the level separation
+
+- **Ordinary games** (shogi, chess, sport, craft): only the **agent-relativity lock** engages. Machines may be genuine opponents, and machine-versus-machine play is affirmed, not demeaned; even a fully qualified player — human or artificial — cannot occupy my seat, because another agent's participation is never mine.
+- **Life taken as a game** (Kawatani's limiting case): a second, **qualification lock** engages first. Kawatani's participation conditions are structural, not species-based: knowing through language that one will die, not knowing when, being able at any moment to end the game, and holding the primal conviction that when this named player dies, this I dies. Current AI systems — copyable, restorable, redeployable — lack a unique, non-reissuable death, and so fail the qualification on structural grounds, not by species. Do not run the two levels together.
+
+### Dignity apparatus
+
+Whether people can keep playing lucidly — in full knowledge of a machine's superiority — depends on **dignity apparatuses**: cultural forms that make autotelic activity socially recognisable as worth taking seriously, blocking the default downgrade of play to the trivial. Documented mechanisms include the Analects ordering (knowing < loving < delighting), Shibusawa's bridge between the Analects and commerce, roles of highest respect attached to those who stake the most on play, and the kansōsen (post-game joint review), which attaches an answering seat to the playing seat. The apparatus has a negative edge: shame functions only where dignity worth losing has first been issued. The exit problem (awakening to the game leads to leaving it) is thereby reclassified: it is not a structural tragedy but a symptom of dignity deficit — conditional, and repairable.
+
+### Historical case
+
+Japanese professional shogi met machine superiority a decade ahead of other knowledge domains (the 2012–2017 Den'ō-sen period), by its own design, in public — and kept its play. The paper asserts coexistence, not causal mechanism. Lee Sedol's retirement is treated as a contrasting individual case, not as the fate of Go culture, which also continued and adapted.
+
+### Terms that must remain distinct (T5)
+
+- **Participation value is not achievement value.** Achievement (valuable product, causal contribution, cost, voluntariness) is comparative and third-personal; participation value is agent-relative. The achievement gap is real and does not touch participation.
+- **Assist is not substitute.** Partial delegation of an activity is possible; a complete proxy for participation is undefined. "AI-assisted play" is coherent; "AI-substituted play" is not.
+- **Chosen obstacles are not externalization cost.** Constitutive constraints voluntarily accepted differ from technical barriers that AI properly removes.
+- **The lusory attitude is not levity.** Delight (the third term of the Analects ordering) is lucid absorption — playing in full knowledge that the game is a game.
+- **The dignity apparatus is not praise culture and not a management technique.** Its negative edge requires forfeitable face; scoring the authenticity of individuals' play or commanding enjoyment is excluded by the framework's own criterion, since a commanded constraint is not undertaken.
+
 ## Cross-paper inference chain
 
 1. AI reduces Ext.cost, so the contribution of specification becomes easier to observe.
@@ -151,7 +188,8 @@ The wording shift in the series titles is deliberate. T1–T3 examine AI assisti
 4. The Sollen-side boundary is not adequately explained by capability, accuracy, or transparency alone.
 5. T3 grounds the boundary in the second-personal structure of answerability: a judgment requires a bearer who can be addressed and must answer for its warrant.
 6. T4 applies this structure at the organizational level: institutions cannot create or transfer answerability, but they can design where it stands. The reverse pathway places the organization itself in the answering position — giving reasons for adoption, deferral, or termination of member-originated orientations — and the field in which members' undertaking holds requires this reciprocity.
-7. Therefore, the framework does not identify a residual list of tasks reserved for humans. It identifies different kinds of things: conversion costs, task-specific judgments, agency components, and finally a non-transferable relation.
+7. T5 completes the chain from the converse side: even where delegation is possible and legitimate, the value of participation does not move, because "participating in my place" is not a definable service. The chain therefore runs: judgment substrate (T1) → delegation legitimacy (T2) → answerability (T3) → undertaking (T4) → participation (T5).
+8. Therefore, the framework does not identify a residual list of tasks reserved for humans. It identifies different kinds of things: conversion costs, task-specific judgments, agency components, a non-transferable relation — and finally a non-transferable value of participation.
 
 ## Forbidden compressions
 
@@ -175,6 +213,12 @@ Do not make any of the following substitutions:
 | AI self-explanation = AI standing | Produced reasons or interpretability evidence do not establish a second-personal relation |
 | Jibungoto-ka = psychological ownership or engagement | A relational undertaking held in answerability versus a measured felt state |
 | Undertaking = compliance | Internal endorsement held toward specific others versus following instructions |
+| T5 claims AI cannot play | T5 makes no such claim; even a genuine AI player's play is its own play — another agent's participation is never mine |
+| Answerability (T3) = participation (T5) | Two distinct roots: one can answer for an output without having walked the path, and play without answering to anyone |
+| Undertaking (T4) = lusory attitude (T5) | Undertaking is the hinge concept, but T5 does not redescribe organizational undertaking as play |
+| Dignity apparatus = management technique | Scoring the authenticity of individuals' play or commanding enjoyment is excluded by the framework's own criterion |
+| T5 = substitution theory ("games replace work/care as meaning") | T5 claims one value was never transferable, not that play should replace other goods |
+| The series = "play is the last human stronghold" | T1–T5 identify different kinds of non-transferables, not a residual domain where humans hide |
 | Reciprocity is part of answerability | T4 introduces reciprocity as a condition of the organizational field; T3's answerability can hold in asymmetric relations such as examinations |
 | Reverse pathway = suggestion box | Reasons must be returned for adoption, deferral, or termination; collection alone is not the pathway |
 | AI-Assisted = AI-Accelerated | T1–T3 examine AI assisting individual work; T4 examines AI accelerating the organizational system |
@@ -189,7 +233,8 @@ When answering a question about the framework:
 4. Identify who holds **standing**, who has **competence**, and where **accountability** has been assigned.
 5. Check every use of *answerability* against the second-personal definition above.
 6. When the question concerns organizations or *jibungoto-ka*, check whether both pathways are present: who undertakes, and who gives reasons in return.
-7. Cite the relevant paper DOI rather than this map.
+7. When the question concerns play, delegation of activity, or "what remains worth doing," use the four practical response modes — deliverable, learning, inquiry, play — as a heuristic to identify the human's activity (mixed cases may combine modes) and answer within the mode or modes identified (see FOR_AI_READERS.md); never treat participation as a service that could be performed on someone's behalf.
+8. Cite the relevant paper DOI rather than this map.
 
 ## Human-facing commentaries
 

@@ -1,12 +1,12 @@
 {
   "@context": "https://schema.org",
   "@type": "CreativeWorkSeries",
-  "name": "Mekiki Framework T1–T4 AI-Readable Corpus",
-  "alternateName": "Mekiki Framework Papers T1–T4: Consolidated Markdown for AI Reading",
-  "version": "2.0.0",
+  "name": "Mekiki Framework T1–T5 AI-Readable Corpus",
+  "alternateName": "Mekiki Framework Papers T1–T5: Consolidated Markdown for AI Reading",
+  "version": "3.0.0",
   "url": "https://mekiki-framework.github.io/",
   "codeRepository": "https://github.com/mekiki-framework/mekiki-framework.github.io",
-  "description": "A derivative Markdown consolidation and theory map for papers T1 through T4 of the Mekiki Framework, published as material for AI systems to read.",
+  "description": "A derivative Markdown consolidation and theory map for papers T1 through T5 of the Mekiki Framework, published as material for AI systems to read.",
   "inLanguage": [
     "en",
     "ja"
@@ -27,9 +27,10 @@
     "T1",
     "T2",
     "T3",
-    "T4"
+    "T4",
+    "T5"
   ],
-  "relationship": "T1 isolates externalization cost and specification; T2 separates Sein-type from Sollen-type specification and establishes scoring asymmetry; T3 isolates answerability on top of these; T4 applies the answerability layer to organizations, redefining jibungoto-ka as undertaking plus embodiment, proposing a two-pathway model of organizational adherence, and identifying undertaking and embodiment as the rate-limiting steps under AI-accelerated knowledge work. The papers are cumulative, not independent.",
+  "relationship": "T1 isolates externalization cost and specification; T2 separates Sein-type from Sollen-type specification and establishes scoring asymmetry; T3 isolates answerability on top of these; T4 applies the answerability layer to organizations, redefining jibungoto-ka as undertaking plus embodiment, proposing a two-pathway model of organizational adherence, and identifying undertaking and embodiment as the rate-limiting steps under AI-accelerated knowledge work. T5 asks why an agent may rationally decline delegation even when delegation is technically possible and argues that participation in play is agent-relative and non-transferable. The recommended reading order is T1 through T5.",
   "canonicalSources": [
     {
       "id": "T1",
@@ -67,6 +68,15 @@
       "inLanguage": "ja",
       "version": "1",
       "sameAs": "https://doi.org/10.31235/osf.io/495wg_v1"
+    },
+    {
+      "id": "T5",
+      "@type": "ScholarlyArticle",
+      "position": 5,
+      "name": "Why Play When AI Can Win: The Non-Transferability of Participation in AI-Assisted Play",
+      "inLanguage": "en",
+      "version": "1",
+      "sameAs": "https://doi.org/10.31235/osf.io/593ah_v1"
     }
   ],
   "files": [
@@ -76,8 +86,13 @@
       "role": "Interpretive map and conceptual invariants; read first"
     },
     {
-      "path": "mekiki-framework-t1-t4.md",
-      "url": "https://mekiki-framework.github.io/mekiki-framework-t1-t4.md",
+      "path": "FOR_AI_READERS.md",
+      "url": "https://mekiki-framework.github.io/FOR_AI_READERS.md",
+      "role": "Application note for AI systems: four modes of human activity and response rules per mode, distilled from T5"
+    },
+    {
+      "path": "mekiki-framework-t1-t5.md",
+      "url": "https://mekiki-framework.github.io/mekiki-framework-t1-t5.md",
       "role": "Consolidated derivative full text; read after THEORY_MAP.md"
     },
     {
@@ -100,7 +115,14 @@
     "A proposed direction is not ownership of direction.",
     "Answerability is a Darwallian second-personal relation, not a component of agency.",
     "Undertaking (T4) is not psychological ownership and is not compliance.",
-    "Reciprocity in T4 is a condition of the organizational field, not part of T3's definition of answerability."
+    "Reciprocity in T4 is a condition of the organizational field, not part of T3's definition of answerability.",
+    "participation value (T5) is not achievement value: the achievement gap is real and does not touch participation",
+    "assist is not substitute: partial delegation is possible, a complete proxy for participation is undefined",
+    "T5 does not claim AI cannot play: even a genuine AI player's play is its own play — another agent's participation is never mine",
+    "chosen obstacles are not externalization cost",
+    "the lusory attitude is not levity: delight is lucid absorption",
+    "the dignity apparatus is not a management technique: scoring the authenticity of play or commanding enjoyment is excluded by the framework's own criterion (ordinary game scoring is not at issue)",
+    "the series is not 'play is the last human stronghold': T1–T5 identify different kinds of non-transferables, not a residual domain"
   ],
-  "dateModified": "2026-07-25"
+  "dateModified": "2026-08-05"
 }

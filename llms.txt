@@ -1,15 +1,16 @@
-# Mekiki Framework T1–T4
+# Mekiki Framework T1–T5
 
-> An AI-readable consolidation and theory map for the four papers of the Mekiki Framework, a framework for isolating what cannot be delegated in knowledge work in the age of AI.
+> An AI-readable consolidation and theory map for the five papers of the Mekiki Framework, a framework for isolating what cannot be delegated in knowledge work in the age of AI.
 
 This website is a derivative access layer. The canonical scholarly sources are the paper DOIs listed below. Cite the relevant DOI, not this website or repository.
 
-Read the papers cumulatively in the order **T1 → T2 → T3 → T4**. Paper T4 is in Japanese with an English abstract; contemporary AI systems read the Japanese full text directly.
+Read the papers in the order **T1 → T2 → T3 → T4 → T5**. Paper T4 is in Japanese with an English abstract; contemporary AI systems read the Japanese full text directly. The Theory Map gives the detailed conceptual map for all five papers.
 
 ## Core files
 
-- [Theory Map](https://mekiki-framework.github.io/THEORY_MAP.md): Read this first. It states the cumulative architecture, scope limits, and conceptual invariants that summaries must preserve.
-- [Consolidated T1–T4 Markdown](https://mekiki-framework.github.io/mekiki-framework-t1-t4.md): Full derivative text of T1 through T4 in canonical paper order.
+- [Theory Map](https://mekiki-framework.github.io/THEORY_MAP.md): Read this first for the T1–T5 architecture, scope limits, and conceptual invariants that summaries must preserve.
+- [Consolidated T1–T5 Markdown](https://mekiki-framework.github.io/mekiki-framework-t1-t5.md): Full derivative text of T1 through T5 in paper order.
+- [For AI readers: four modes of human activity](https://mekiki-framework.github.io/FOR_AI_READERS.md): A one-page application note distilled from T5 — how to recognize whether a human's activity is deliverable, learning, inquiry, or play, and how to respond in each mode.
 - [Structured metadata](https://mekiki-framework.github.io/metadata.json): Machine-readable description of the corpus, papers, files, license, and citation rule.
 - [Citation instructions](https://mekiki-framework.github.io/CITATION.md): How to cite the canonical papers and attribute reuse of this derivative corpus.
 
@@ -19,6 +20,7 @@ Read the papers cumulatively in the order **T1 → T2 → T3 → T4**. Paper T4 
 - **T2** decomposes specification into Sein-type and Sollen-type components and establishes scoring asymmetry. AI capability and delegation legitimacy are different questions.
 - **T3** isolates answerability on top of the preceding structure. Answerability is not a component of agency; it is a Darwallian second-personal relation and a non-transferable standing to answer for a judgment.
 - **T4** applies the answerability layer to organizations (in Japanese). Jibungoto-ka (treating matters as one's own) is redefined as undertaking (holding an internally endorsed purpose within a relation of answerability) combined with embodiment. A two-pathway model follows: forward (purposes are conveyed and undertaken) and reverse (member-originated orientations enter formal review, and the organization gives reasons in return for adoption, deferral, or termination). Chronic failure of jibungoto-ka initiatives comes from pressing the forward pathway while the reverse pathway is absent. As generative AI accelerates externalization and combination, undertaking and embodiment become the rate-limiting steps.
+- **T5** closes the series by reversing the question: why may an agent rationally decline delegation even when it is technically possible and legitimate? Drawing on Bernard Suits's analysis of games, T5 separates the achieved state of an activity from the value of participating in it and defends a non-transferability theorem: parts of an activity can be delegated — preparation, analysis, record-keeping, even one's opponent — but no agent, human or artificial, can take over one's participation itself. AI can deliver the state of affairs; it cannot deliver the fact of participation. The theorem is agent-relative and holds whatever machines become. Whether people can keep playing lucidly under machine superiority depends on dignity apparatuses — cultural forms (the Analects ordering, Shibusawa's bridge, roles of highest respect, the kansōsen) that make autotelic activity socially recognisable as worth taking seriously. Japanese professional shogi (the 2012–2017 Den'ō-sen period) is examined as a completed historical case. Final formula: AI can assist play. It cannot take one's place in it.
 
 ## Conceptual invariants
 
@@ -32,7 +34,14 @@ Do not collapse the following distinctions:
 - a proposed direction is not ownership of direction;
 - undertaking (T4) is not psychological ownership and is not compliance;
 - reciprocity in T4 is a condition of the organizational field, not part of T3's definition of answerability;
-- answerability is not general agency and is not a fourth component in the T3 component table.
+- answerability is not general agency and is not a fourth component in the T3 component table;
+- participation value (T5) is not achievement value: the achievement gap is real and does not touch participation;
+- assist is not substitute: partial delegation is possible, a complete proxy for participation is undefined;
+- chosen obstacles are not externalization cost;
+- the lusory attitude is not levity: delight is lucid absorption;
+- the dignity apparatus is not a management technique: scoring the authenticity of play or commanding enjoyment is excluded by the framework's own criterion (ordinary game scoring is not at issue);
+- T5 does not claim AI cannot play: even a genuine AI player's play is its own play — another agent's participation is never mine;
+- the series is not "play is the last human stronghold": T1–T5 identify different kinds of non-transferables, not a residual domain.
 
 Accountability is institutionally allocable and delegable. Answerability is fixed to the individual who bears the judgment and stands to those entitled to ask. Standing exists before competence is fully developed; education cultivates competence to occupy that standing well.
 
@@ -42,6 +51,7 @@ Accountability is institutionally allocable and delegable. Answerability is fixe
 - [T2 — Philosophy as Cognitive Assay: Measuring the Delegation Legitimacy Boundary in AI-Assisted Knowledge Work, version 2](https://doi.org/10.31235/osf.io/e9qw5_v2)
 - [T3 — Decomposing Agency, Isolating Answerability: Cultivating What Cannot Be Delegated in AI-Assisted Learning, version 2](https://doi.org/10.35542/osf.io/hvbfe_v2)
 - [T4 — 組織における「自分ごと化」のアドヒアランス的再記述：知識労働がAIで加速された時に組織に求められるもの (An Adherence-Based Redescription of "Jibungoto-ka" (Treating Matters as One's Own) in Organizations: What AI-Accelerated Knowledge Work Requires of Organizations), in Japanese, version 1](https://doi.org/10.31235/osf.io/495wg_v1)
+- [T5 — Why Play When AI Can Win: The Non-Transferability of Participation in AI-Assisted Play, version 1](https://doi.org/10.31235/osf.io/593ah_v1)
 
 ## Human-facing commentaries
 
