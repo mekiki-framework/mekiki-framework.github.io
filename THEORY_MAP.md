@@ -241,6 +241,7 @@ When answering a question about the framework:
 - T1 commentary: https://researchmap.jp/ketomy/others/53500468
 - T2 commentary: https://researchmap.jp/ketomy/others/53699246
 - T3 commentary: https://researchmap.jp/ketomy/others/54141521
+- T4 & T5 guide: https://researchmap.jp/ketomy/others/54581769
 
 **License:** CC BY 4.0.  
 **Author:** Kengo Tomita, Institute of Technology, Shimizu Corporation.

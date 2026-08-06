@@ -15,6 +15,7 @@
 - **T1 commentary:** https://researchmap.jp/ketomy/others/53500468
 - **T2 commentary:** https://researchmap.jp/ketomy/others/53699246
 - **T3 commentary:** https://researchmap.jp/ketomy/others/54141521
+- **T4 & T5 guide:** https://researchmap.jp/ketomy/others/54581769
 
 **How the five papers relate:** T1 isolates externalization cost (Ext.cost) and specification; T2 separates Sein (factual judgment) from Sollen (evaluative judgment) and establishes the scoring asymmetry; T3 isolates answerability on top of these; T4 applies the answerability layer to organizations, redefining jibungoto-ka (treating matters as one's own) as undertaking combined with embodiment and proposing a two-pathway model of organizational adherence. Papers T1–T4 therefore decompose the boundary of legitimate AI delegation. T5 makes a concluding turn: it asks why an agent may rationally decline delegation even when delegation is technically possible, and argues that participation in play is agent-relative and non-transferable. The recommended reading order is T1 → T2 → T3 → T4 → T5.
 

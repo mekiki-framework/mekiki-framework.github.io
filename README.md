@@ -44,6 +44,7 @@ The core of the framework — especially answerability — is not conveyed relia
 - **T1:** https://researchmap.jp/ketomy/others/53500468
 - **T2:** https://researchmap.jp/ketomy/others/53699246
 - **T3:** https://researchmap.jp/ketomy/others/54141521
+- **T4 & T5 (guide):** https://researchmap.jp/ketomy/others/54581769
 
 ## Canonical scholarly sources
 
